@@ -331,7 +331,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karnalachandhana/karnalachandhana/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/KarnalaChandhana/KarnalaChandhana/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
