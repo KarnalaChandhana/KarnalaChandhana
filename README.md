@@ -19,61 +19,74 @@
 </td>
 <td width="70%" valign="top">
 
-### ✨ Featured Projects
+<h3>✨ Featured Projects</h3>
 
-<br>
+<b>🔥 FireFlys Agency</b><br>
+<sub>Digital Marketing Agency Website</sub><br><br>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/SEO-A855F7?style=flat-square">
+<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white">
+<img src="https://img.shields.io/badge/Website%20Development-FF4FD8?style=flat-square">
+<br><br>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Website-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white"></a>
 
-**🔥 FireFlys Agency**
-Digital Marketing Agency Website
+<hr>
 
-`WordPress` `SEO` `Google Ads` `Website Development`
+<b>🤖 TalentCoreAI</b><br>
+<sub>AI Recruitment Platform</sub><br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/AI-EC4899?style=flat-square">
+<img src="https://img.shields.io/badge/Automation-8B5CF6?style=flat-square">
+<img src="https://img.shields.io/badge/Dashboard-22C55E?style=flat-square">
+<br><br>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white"></a>
 
-[![Live Website](https://img.shields.io/badge/Live%20Website-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white)](#) [![Repository](https://img.shields.io/badge/Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](#)
+<hr>
 
----
+<b>🏥 KK Swara Super Speciality Hospital</b><br>
+<sub>Hospital Website + Local SEO</sub><br><br>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/SEO-A855F7?style=flat-square">
+<img src="https://img.shields.io/badge/Google%20Business%20Profile-4285F4?style=flat-square&logo=google&logoColor=white">
+<br><br>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Website-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Private%20Project-6B7280?style=for-the-badge&logo=lock&logoColor=white"></a>
 
-**🤖 TalentCoreAI**
-AI Recruitment Platform
+<hr>
 
-`Python` `AI` `Automation` `Dashboard`
+<b>🏥 Physiotherapy Clinic</b><br>
+<sub>Clinic Website + Google Ads Landing Page</sub><br><br>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white">
+<br><br>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Website-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Private%20Project-6B7280?style=for-the-badge&logo=lock&logoColor=white"></a>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white)](#) [![Repository](https://img.shields.io/badge/Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](#)
+<hr>
 
----
+<b>🚗 Vedha Car Travels</b><br>
+<sub>Travel &amp; Cab Booking Website</sub><br><br>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/SEO-A855F7?style=flat-square">
+<br><br>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Website-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Private%20Project-6B7280?style=for-the-badge&logo=lock&logoColor=white"></a>
 
-**🏥 KK Swara Super Speciality Hospital**
-Hospital Website + Local SEO
+<hr>
 
-`WordPress` `SEO` `Google Business Profile`
-
-[![Live Website](https://img.shields.io/badge/Live%20Website-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white)](#) [![Private Project](https://img.shields.io/badge/Private%20Project-6B7280?style=for-the-badge&logo=lock&logoColor=white)](#)
-
----
-
-**🏥 Physiotherapy Clinic**
-Clinic Website + Google Ads Landing Page
-
-`HTML` `CSS` `JavaScript` `Google Ads`
-
-[![Live Website](https://img.shields.io/badge/Live%20Website-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white)](#) [![Private Project](https://img.shields.io/badge/Private%20Project-6B7280?style=for-the-badge&logo=lock&logoColor=white)](#)
-
----
-
-**🚗 Vedha Car Travels**
-Travel & Cab Booking Website
-
-`HTML` `CSS` `JavaScript` `SEO`
-
-[![Live Website](https://img.shields.io/badge/Live%20Website-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white)](#) [![Private Project](https://img.shields.io/badge/Private%20Project-6B7280?style=for-the-badge&logo=lock&logoColor=white)](#)
-
----
-
-**🌐 Starter Websites**
-Google Sites Business Websites
-
-`Google Sites` `SEO` `Responsive`
-
-[![View Samples](https://img.shields.io/badge/View%20Samples-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+<b>🌐 Starter Websites</b><br>
+<sub>Google Sites Business Websites</sub><br><br>
+<img src="https://img.shields.io/badge/Google%20Sites-4285F4?style=flat-square&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/SEO-A855F7?style=flat-square">
+<img src="https://img.shields.io/badge/Responsive-10B981?style=flat-square">
+<br><br>
+<a href="#"><img src="https://img.shields.io/badge/View%20Samples-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
 </td>
 </tr>
@@ -112,14 +125,14 @@ Google Sites Business Websites
 
 <div align="center">
 
-### 📫 Let's Connect
+<h3>📫 Let's Connect</h3>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karnalachandhana@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarnalaChandhana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![FireFlys Agency](https://img.shields.io/badge/FireFlys%20Agency-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](#)
+<a href="mailto:karnalachandhana@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/KarnalaChandhana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF4FD8?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/FireFlys%20Agency-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white"></a>
 
 </div>
 
@@ -127,12 +140,12 @@ Google Sites Business Websites
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=KarnalaChandhana&style=for-the-badge&color=8B5CF6)
+<img src="https://komarev.com/ghpvc/?username=KarnalaChandhana&style=for-the-badge&color=8B5CF6" alt="Profile Views">
 
 </div>
 
 <div align="center">
 
-### *"Helping Businesses Grow Through Websites, SEO & Google Ads."*
+<h4><i>"Helping Businesses Grow Through Websites, SEO &amp; Google Ads."</i></h4>
 
 </div>
