@@ -1,349 +1,275 @@
-<p align="center">
+<!--
+  PREMIUM GITHUB PROFILE README
+  Designed for Karnala Chandhana
+  Inspired by Apple, Linear, Stripe, Framer, Awwwards
+  Dark theme | Purple · Pink · Blue | Glassmorphism (via SVG)
+  No CSS · No JavaScript · Fully GitHub compatible
+-->
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner.svg">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
-    <img src="banner.svg" width="900" alt="Karnala Chandhana Banner">
+    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+    <img src="./banner.svg" alt="Karnala Chandhana · FireFlys Agency" width="100%">
   </picture>
-</p>
+</div>
 
-<h1 align="center">Hi 👋 I'm Karnala Chandhana</h1>
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Digital+Marketing+Executive;SEO+Specialist;Google+Ads+Expert;Meta+Ads+Specialist;WordPress+Developer;AI+Enthusiast" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <b>🚀 Growth Marketer | SEO | Google Ads | WordPress | AI Solutions</b>
-</p>
-
-<p align="center">
-  <i>"I help businesses build, rank, advertise, and grow through SEO, Google Ads, Meta Ads, WordPress Development, AI-powered marketing, and performance-driven digital solutions."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karnalachandhana&label=Profile%20Views&color=9B59B6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/karnalachandhana?label=Followers&style=for-the-badge&color=9B59B6" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/karnalachandhana?label=Total%20Stars&style=for-the-badge&color=9B59B6" alt="GitHub Stars" />
-</p>
-
----
-
-<h3 align="center">🌐 CONNECT WITH ME</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/karnala-chandhana-a03865287/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:karnalachandhana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
----
-
-<h2 align="center">💼 WHAT I DO</h2>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="33%">
-  <h3>🌐 WordPress</h3>
-  <p>Website Development</p>
-</td>
-<td align="center" width="33%">
-  <h3>🔍 SEO</h3>
-  <p>Optimization</p>
-</td>
-<td align="center" width="33%">
-  <h3>📢 Google Ads</h3>
-  <p>Campaign Management</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <h3>📱 Meta Ads</h3>
-  <p>Campaign Management</p>
-</td>
-<td align="center" width="33%">
-  <h3>📈 Performance</h3>
-  <p>Marketing</p>
-</td>
-<td align="center" width="33%">
-  <h3>📊 Analytics</h3>
-  <p>Google Analytics & Search Console</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <h3>🤖 AI Automation</h3>
-  <p>AI Content Creation</p>
-</td>
-<td align="center" width="33%">
-  <h3>🎨 Creative</h3>
-  <p>Branding & Graphic Design</p>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">👤 ABOUT ME</h2>
-
-<table align="center" width="80%">
-<tr>
-<td>
+<div align="center">
+  <h1>Karnala Chandhana</h1>
   <p>
-    I'm a passionate <b>Digital Marketing Executive</b> dedicated to helping businesses generate leads and grow online. 
-    With strong expertise in <b>SEO</b> and <b>Paid Ads</b>, I specialize in building responsive <b>WordPress websites</b> 
-    and leveraging <b>AI tools</b> for marketing automation. 
+    <b>Digital Marketing Executive</b> · <b>Website Developer</b> · <b>SEO Specialist</b> · <b>Google Ads Expert</b>
   </p>
   <p>
-    I believe in a data-driven approach and continuous learning to deliver measurable results. 
-    Whether it's ranking websites, managing ad campaigns, or creating high-converting landing pages — 
-    I bring a strategic mindset to every project.
+    <img src="https://img.shields.io/badge/FireFlys_Agency-6C3CE1?style=for-the-badge&logo=firebase&logoColor=white" alt="FireFlys Agency">
+    <img src="https://img.shields.io/badge/Telangana-India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Telangana, India">
   </p>
-  <p align="center">
-    <b>📍 Hyderabad, India</b>
+</div>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="30%">
+        <img src="./lanyard.svg" alt="lanyard" width="160">
+      </td>
+      <td align="left" width="70%">
+        <h2>👋 About Me</h2>
+        <p>Digital marketing strategist & web developer. I build high-converting websites, dominate search results, and scale businesses with <b>AI automation</b>.</p>
+        <p><b>FireFlys Agency</b> — where growth meets innovation.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Mission-Helping_Businesses_Grow-8B5CF6?style=flat-square&logo=target&logoColor=white">
+          <img src="https://img.shields.io/badge/Focus-AI_Automation-EC4899?style=flat-square&logo=robotframework&logoColor=white">
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h3>⚡ Current Focus</h3>
+  <p>Google Ads + AI Automation · Scaling FireFlys Agency</p>
+  <h3>🚀 Mission</h3>
+  <p>Empower 100+ businesses in 2026 with data-driven digital solutions</p>
+  <h3>📍 Location</h3>
+  <p>Telangana, India</p>
+</div>
+
+---
+
+<h2 align="center">✨ Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <b>FireFlys Agency</b><br>
+        <sub>Full-service digital agency</sub><br>
+        <img src="https://img.shields.io/badge/Website-8B5CF6?style=flat-square"><br>
+        <a href="#">🔗 Repo</a>
+      </td>
+      <td align="center" width="33%">
+        <b>TalentCoreAI</b><br>
+        <sub>AI recruitment platform</sub><br>
+        <img src="https://img.shields.io/badge/AI-EC4899?style=flat-square"><br>
+        <a href="#">🔗 Repo</a>
+      </td>
+      <td align="center" width="33%">
+        <b>KK Swara Hospital</b><br>
+        <sub>Healthcare website + SEO</sub><br>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square"><br>
+        <a href="#">🔗 Repo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Physiotherapy Clinic</b><br>
+        <sub>Clinic brand & booking</sub><br>
+        <img src="https://img.shields.io/badge/Landing_Page-06B6D4?style=flat-square"><br>
+        <a href="#">🔗 Repo</a>
+      </td>
+      <td align="center">
+        <b>Vedha Car Travels</b><br>
+        <sub>Travel & transport site</sub><br>
+        <img src="https://img.shields.io/badge/Google_Ads-FBBC04?style=flat-square"><br>
+        <a href="#">🔗 Repo</a>
+      </td>
+      <td align="center">
+        <b>Starter Websites</b><br>
+        <sub>Fast-launch business sites</sub><br>
+        <img src="https://img.shields.io/badge/HTML_CSS_JS-F7DF1E?style=flat-square"><br>
+        <a href="#">🔗 Repo</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">🛠️ Skills & Tech Stack</h2>
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/SEO-8B5CF6?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Local_SEO-6D28D9?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white">
+    <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+    <img src="https://img.shields.io/badge/Graphic_Design-FF6B6B?style=for-the-badge">
+    <img src="https://img.shields.io/badge/AI_Tools-EC4899?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Web_Development-8B5CF6?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Landing_Pages-06B6D4?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white">
   </p>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<h2 align="center">📊 STATS & VISUALS</h2>
+<h2 align="center">📜 Professional Certifications</h2>
 
-<p align="center">
-  <img src="lanyard.svg" width="400" alt="Lanyard" />
-</p>
-
-<p align="center">
-  <img src="stats.svg" width="400" alt="Stats" />
-  <img src="langs.svg" width="400" alt="Languages" />
-</p>
-
-<p align="center">
-  <img src="trophies.svg" width="800" alt="Trophies" />
-</p>
-
----
-
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
-
-<table align="center" width="100%">
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Technology</th>
-<th>Status</th>
-</tr>
-<tr>
-<td><b>FireFlys Agency</b></td>
-<td>Digital Marketing Agency Website</td>
-<td>WordPress</td>
-<td>🟢 Live</td>
-</tr>
-<tr>
-<td><b>ClickNexa</b></td>
-<td>Digital Marketing Agency</td>
-<td>WordPress</td>
-<td><a href="https://clicknexa.id/">🟢 Live</a></td>
-</tr>
-<tr>
-<td><b>TalentCoreAI</b></td>
-<td>AI Startup Website</td>
-<td>HTML/CSS</td>
-<td><a href="https://talentcoreai.com/">🟢 Live</a></td>
-</tr>
-<tr>
-<td><b>KK Swara Super Speciality Hospital</b></td>
-<td>Hospital Website + SEO</td>
-<td>WordPress + SEO</td>
-<td>🔵 Private</td>
-</tr>
-<tr>
-<td><b>Physiotherapy Clinic</b></td>
-<td>Healthcare Website</td>
-<td>HTML/CSS</td>
-<td>🔵 Private</td>
-</tr>
-<tr>
-<td><b>Vedha Car Travels</b></td>
-<td>Business Website</td>
-<td>WordPress</td>
-<td>🔵 Private</td>
-</tr>
-<tr>
-<td><b>Starter Business Websites</b></td>
-<td>Landing Pages</td>
-<td>HTML/CSS</td>
-<td>✅ Completed</td>
-</tr>
-<tr>
-<td><b>AI Chatbot</b></td>
-<td>Python + Gradio</td>
-<td>Python</td>
-<td>✅ Completed</td>
-</tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="./certificates/google-ads-1.webp" width="100" alt="Google Ads"><br>Google Ads ×6</td>
+      <td align="center"><img src="./certificates/google-ads-2.webp" width="100" alt="Google Ads"><br>Google Ads ×6</td>
+      <td align="center"><img src="./certificates/google-ads-3.webp" width="100" alt="Google Ads"><br>Google Ads ×6</td>
+      <td align="center"><img src="./certificates/google-ads-4.webp" width="100" alt="Google Ads"><br>Google Ads ×6</td>
+      <td align="center"><img src="./certificates/google-ads-5.webp" width="100" alt="Google Ads"><br>Google Ads ×6</td>
+      <td align="center"><img src="./certificates/google-ads-6.webp" width="100" alt="Google Ads"><br>Google Ads ×6</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"><img src="./certificates/google-analytics.webp" width="100" alt="Google Analytics"><br>Google Analytics ×1</td>
+      <td align="center"><img src="./certificates/linkedin-fund.webp" width="100" alt="LinkedIn Marketing"><br>LinkedIn Marketing Fundamentals ×1</td>
+      <td align="center"><img src="./certificates/linkedin-strategy-1.webp" width="100" alt="LinkedIn Strategy"><br>LinkedIn Marketing Strategy ×2</td>
+      <td align="center"><img src="./certificates/linkedin-strategy-2.webp" width="100" alt="LinkedIn Strategy"><br>LinkedIn Marketing Strategy ×2</td>
+      <td align="center"><img src="./certificates/kareer9-intern.webp" width="100" alt="Digital Marketing Internship"><br>Digital Marketing Internship (Kareer9) ×1</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<h2 align="center">🛠️ SERVICES</h2>
+<h2 align="center">💼 Services</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Website%20Development-9B59B6?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website Development" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
-  <img src="https://img.shields.io/badge/Social%20Media%20Marketing-FF6B6B?style=for-the-badge&logo=social&logoColor=white" alt="Social Media Marketing" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
-  <img src="https://img.shields.io/badge/Email%20Marketing-FF6B6B?style=for-the-badge&logo=mailchimp&logoColor=white" alt="Email Marketing" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Video%20Creation-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Video Creation" />
-  <img src="https://img.shields.io/badge/Graphic%20Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Graphic Design" />
-  <img src="https://img.shields.io/badge/Branding-9B59B6?style=for-the-badge&logo=brand&logoColor=white" alt="Branding" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Website_Development-8B5CF6?style=for-the-badge">
+    <img src="https://img.shields.io/badge/SEO-6D28D9?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge">
+    <img src="https://img.shields.io/badge/AI_Automation-EC4899?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Graphic_Designing-FF6B6B?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Social_Media_Marketing-06B6D4?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Business_Branding-FBBF24?style=for-the-badge">
+  </p>
+</div>
 
 ---
 
-<h2 align="center">⚙️ TECH STACK</h2>
+<h2 align="center">📊 Case Studies</h2>
 
-<h4 align="center">Marketing</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
-  <img src="https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Search Console" />
-</p>
-
-<h4 align="center">Development</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-<h4 align="center">Design & AI</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/CapCut-00C4CC?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-412991?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/AI%20Video%20Tools-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" alt="AI Video Tools" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>🏥 KK Swara Hospital</b><br>
+        <sub>220% organic traffic increase in 4 months</sub><br>
+        <img src="https://img.shields.io/badge/SEO-8B5CF6?style=flat-square">
+        <img src="https://img.shields.io/badge/Local_SEO-6D28D9?style=flat-square">
+      </td>
+      <td align="center" width="50%">
+        <b>🚗 Vedha Car Travels</b><br>
+        <sub>150% increase in bookings via Google Ads</sub><br>
+        <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square">
+        <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=flat-square">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<h2 align="center">🎯 CURRENT FOCUS</h2>
+<h2 align="center">📈 GitHub Analytics</h2>
 
-<table align="center" width="80%">
-<tr>
-<td align="center" width="33%">
-  <h3>🌱 AI Marketing</h3>
-  <p>Leveraging AI for marketing automation</p>
-</td>
-<td align="center" width="33%">
-  <h3>🚀 Local SEO</h3>
-  <p>Helping local businesses rank higher</p>
-</td>
-<td align="center" width="33%">
-  <h3>📈 Performance Marketing</h3>
-  <p>Optimizing ad campaigns for ROI</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <h3>⚡ Conversion Optimization</h3>
-  <p>Improving website conversion rates</p>
-</td>
-<td align="center" width="33%">
-  <h3>🤖 AI Automation</h3>
-  <p>Automating repetitive marketing tasks</p>
-</td>
-<td align="center" width="33%">
-  <h3>🌐 High-Converting Websites</h3>
-  <p>Building websites that convert visitors</p>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./stats.svg" alt="GitHub Stats" width="48%">
+  <img src="./langs.svg" alt="Top Languages" width="38%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarnalaChandhana&theme=dark&background=0D0B15&border=2A2540&stroke=6B5E9E&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=B0A8D0" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarnalaChandhana&theme=react-dark&bg_color=0b0a0f&color=a78bfa&line=60a5fa&point=f472b6&area=true&hide_border=true" alt="Contribution Graph" width="48%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./trophies.svg" alt="GitHub Trophies" width="70%">
+</div>
 
 ---
 
-<h2 align="center">📈 GITHUB STATS</h2>
+<h2 align="center">🐍 Snake Animation</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karnalachandhana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karnalachandhana&theme=radical&hide_border=true&background=0D1117&stroke=9B59B6&ring=9B59B6&fire=9B59B6" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnalachandhana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9B59B6" alt="Top Languages" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarnalaChandhana/KarnalaChandhana/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarnalaChandhana/KarnalaChandhana/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/KarnalaChandhana/KarnalaChandhana/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
+  </picture>
+</div>
 
 ---
 
-<h2 align="center">🤝 LET'S CONNECT</h2>
+<h2 align="center">🏆 Achievements</h2>
 
-<h3 align="center"><i>Let's Grow Your Business Together 🚀</i></h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/karnala-chandhana-a03865287/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:karnalachandhana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/karnalachandhana">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Google_Ads_Certified_×6-8B5CF6?style=for-the-badge&logo=google&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Analytics_Certified-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn_Marketing_Strategy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/Digital_Marketing_Intern-EC4899?style=for-the-badge&logo=internetexplorer&logoColor=white">
+  </p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KarnalaChandhana/KarnalaChandhana/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+<h2 align="center">🌐 Let's Connect</h2>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Visitor_Count-1,284-8B5CF6?style=for-the-badge&logo=eye&logoColor=white">
+</div>
 
 ---
 
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> ⭐
-</p>
-
-<p align="center">
-  <b>Helping Businesses Build • Rank • Scale 🚀</b>
-</p>
-
-<p align="center">
-  <i>Made with ❤️ by Karnala Chandhana</i>
-</p>
+<div align="center">
+  <p>
+    <b>© 2026 Karnala Chandhana · FireFlys Agency</b><br>
+    <sub>Crafted with ❤️ in Telangana · Premium GitHub Profile</sub>
+  </p>
+</div>
