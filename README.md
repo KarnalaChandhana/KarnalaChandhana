@@ -37,16 +37,16 @@
   <a href="mailto:karnalachandhana@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="#">
+  <a href="https://karnalachandhana.github.io/KarnalaChandhana/">
     <img src="https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="#">
+  <a href="https://www.instagram.com/karnalachandhu/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="#">
+  <a href="https://www.youtube.com/@BtechMinds">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="#">
+  <a href="https://wa.me/918519945594">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
